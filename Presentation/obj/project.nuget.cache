@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "u53hCoB35mIiPyN4n+IidFjF1LbvQYpsqoB0iQgt8Ibrkcghe1wPy4pJi0E047Ykkvaq4HkzyHTIYxFl7gMBtg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\davii\\OneDrive\\Construcciones Cardobon\\Documentos\\Portafolio\\UpLauncher VIsual Studio\\Presentation\\Presentation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\davii\\.nuget\\packages\\fontawesome.sharp\\5.15.4\\fontawesome.sharp.5.15.4.nupkg.sha512",
+    "C:\\Users\\davii\\.nuget\\packages\\mysqlconnector\\2.1.0\\mysqlconnector.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

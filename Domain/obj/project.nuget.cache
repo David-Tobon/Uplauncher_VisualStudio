@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q+YGvG9MHckNeHyB2Gzz74pz7jI0my7ZNq1nqcOYURCtSMqSDRPVOh4I+JP1Kg2/mgYZ7ScAVLpr+HywKhW4qA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\davii\\OneDrive\\Construcciones Cardobon\\Documentos\\Portafolio\\UpLauncher VIsual Studio\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\davii\\.nuget\\packages\\mysqlconnector\\2.1.0\\mysqlconnector.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

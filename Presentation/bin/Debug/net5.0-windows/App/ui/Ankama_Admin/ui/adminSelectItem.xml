@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Definition SYSTEM "../dtd/ui.dtd">
+<Definition usePropertiesCache="false">
+ 
+	<Import url="[config.mod.template.button]iconButton.xml" />
+	<Import url="[config.mod.template.button]simpleButton.xml" />
+	<Import url="[config.mod.template]window.xml" />
+	<Import url="[config.mod.template]block.xml" />
+	<Import url="[config.mod.template.button]comboBoxWithBackground.xml" />
+	<Import url="[config.mod.template.button]themeIconButton.xml" />
+	<Import url="[config.mod.template.button]labelCheckBox.xml" />
+	<Import url="[config.mod.template.button]searchInput.xml" />
+    
+	<Constants>
+		<Constant name="assets" value="[config.ui.skin]assets.swf|" />
+		<Constant name="css" value="[config.ui.skin]css/" />
+		<Constant name="bitmap" value="[config.ui.skin]bitmap/" />	
+		<Constant name="common" value="[config.ui.skin]common/" />
+		<Constant name="texture" value="[config.ui.skin]texture/" />
+	</Constants>
+		
+	<window name="ctr_window">
+		<Anchors>
+			<Anchor>
+				<AbsDimension x="0" y="10" />
+			</Anchor>
+		</Anchors>
+		<Size>
+            <AbsDimension x="440" y="880" />
+        </Size>
+		<movable>true</movable>
+		<Content>
+			<Container name="commonCtr">
+				<mouseEnabled>true</mouseEnabled>	        
+			
+				<block dark="false">
+					<Size>
+						<AbsDimension x="402" y="810" />
+					</Size>		
+				</block>	 
+				
+				<Label name="lbl_command">
+					<Anchors>
+						<Anchor>
+							<AbsDimension x="10" y="10" />
+						</Anchor>
+					</Anchors>
+					<Size>
+						<AbsDimension x="380" y="16" />
+					</Size>
+					<cssClass>right</cssClass>
+					<css>[local.css]normal2.css</css>
+					<selectable>true</selectable>
+				</Label>
+			
+				<comboBoxWithBackground name="cb_category" width="392" height="39">
+					<Anchors> 
+						<Anchor>
+							<AbsDimension x="3" y="35" />
+						</Anchor>
+					</Anchors>
+				</comboBoxWithBackground>
+		        
+				<Grid name="gd_items">
+		            <Anchors> 
+		                <Anchor>
+		                    <AbsDimension x="5" y="75" />
+		                </Anchor>
+		            </Anchors>
+		            <Size>
+		                <AbsDimension x="383" y="684" />
+		            </Size>
+					<slotWidth>373</slotWidth>
+					<slotHeight>38</slotHeight>
+					<rendererName>InlineXmlGridRenderer</rendererName>
+	                <rendererArgs>updateItemLine,[colors.grid.line]</rendererArgs>
+	                <scrollDisplay>always</scrollDisplay>
+	                <verticalScrollbarCss>[local.css]scrollBar.css</verticalScrollbarCss>
+	
+	                <Button name="btn_item">
+	                    <Common>
+	                        <Size>
+	                            <AbsDimension x="373" y="38" />
+	                        </Size>
+	                        <mouseEnabled>true</mouseEnabled>
+	                        <mouseChildren>true</mouseChildren>
+	
+							<Texture>
+								<Size>
+									<AbsDimension x="373" y="39" />
+								</Size>
+								<bgColor>0</bgColor>
+								<bgAlpha>0</bgAlpha>
+							</Texture>
+	
+							<Label name="lbl_name">
+								<Anchors>
+									<Anchor>
+										<AbsDimension x="51" y="9" />
+									</Anchor>
+								</Anchors>
+								<Size>
+									<AbsDimension x="320" y="16" />
+								</Size>
+								<css>[local.css]normal2.css</css>
+								<useStyleSheet>true</useStyleSheet>
+							</Label>
+	
+							<Texture name="tx_item">
+								<Anchors>
+									<Anchor>
+										<AbsDimension x="6" y="0" />
+									</Anchor>
+								</Anchors>
+								<Size>
+									<AbsDimension x="38" y="38" />
+								</Size>
+							</Texture>	         
+	                    </Common>
+	                 </Button>
+		        </Grid>		
+					
+			
+				<searchInput name="ctr_search" width="392">
+					<Anchors> 
+						<Anchor>
+							<AbsDimension x="3" y="760" />
+						</Anchor>
+					</Anchors>
+				</searchInput>
+		        
+	        </Container>
+        </Content>
+        
+	</window>
+</Definition>
+

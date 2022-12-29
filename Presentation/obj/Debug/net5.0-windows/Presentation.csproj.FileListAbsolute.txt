@@ -1,0 +1,84 @@
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\bin\Debug\net5.0-windows\Domain.dll
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\bin\Debug\net5.0-windows\Domain.pdb
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\obj\Debug\net5.0-windows\Presentation.csproj.AssemblyReference.cache
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\obj\Debug\net5.0-windows\Presentation.csproj.GenerateResource.cache
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\obj\Debug\net5.0-windows\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\obj\Debug\net5.0-windows\Presentation.AssemblyInfoInputs.cache
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\obj\Debug\net5.0-windows\Presentation.AssemblyInfo.cs
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\obj\Debug\net5.0-windows\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\obj\Debug\net5.0-windows\Presentation.csproj.CopyComplete
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\obj\Debug\net5.0-windows\Presentation.PanelLogin.resources
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\obj\Debug\net5.0-windows\Presentation.PanelInicio.resources
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\obj\Debug\net5.0-windows\Presentation.Properties.Resources.resources
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\bin\Debug\net5.0-windows\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\bin\Debug\net5.0-windows\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\bin\Debug\net5.0-windows\Common.dll
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\bin\Debug\net5.0-windows\Common.pdb
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\bin\Debug\net5.0-windows\MySqlConnector.dll
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\obj\Debug\net5.0-windows\Presentation.genruntimeconfig.cache
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\obj\Debug\net5.0-windows\Presentation.Formularios.FormulariosRecursos.Editar_Perfil.FormEditProfile.resources
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\obj\Debug\net5.0-windows\Presentation.Formularios.FormularioLogin.PanelRegistro.resources
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\obj\Debug\net5.0-windows\Interop.VBIDE.dll
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\obj\Debug\net5.0-windows\Presentation.csproj.ResolveComReference.cache
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\obj\Debug\net5.0-windows\Presentation.Formularios.FormulariosRecursos.Contacto.FormContacto.resources
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\obj\Debug\net5.0-windows\Presentation.Formularios.FormulariosRecursos.Guia.FormGuia.resources
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\bin\Debug\net5.0-windows\UpLauncher Voltion.exe
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\bin\Debug\net5.0-windows\UpLauncher Voltion.deps.json
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\bin\Debug\net5.0-windows\UpLauncher Voltion.runtimeconfig.json
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\bin\Debug\net5.0-windows\UpLauncher Voltion.runtimeconfig.dev.json
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\bin\Debug\net5.0-windows\UpLauncher Voltion.dll
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\bin\Debug\net5.0-windows\ref\UpLauncher Voltion.dll
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\bin\Debug\net5.0-windows\UpLauncher Voltion.pdb
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\obj\Debug\net5.0-windows\UpLauncher Voltion.dll
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\obj\Debug\net5.0-windows\ref\UpLauncher Voltion.dll
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\obj\Debug\net5.0-windows\UpLauncher Voltion.pdb
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\bin\Debug\net5.0-windows\DiseñoIconos.dll
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\bin\Debug\net5.0-windows\DiseñoIconos.pdb
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\obj\Debug\net5.0-windows\Presentation.Formularios.FormulariosRecursos.Tienda.FormProductosTienda.resources
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\obj\Debug\net5.0-windows\Presentation.Formularios.FormulariosRecursos.FormTienda.resources
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\obj\Debug\net5.0-windows\Presentation.Formularios.FormulariosRecursos.Tienda.txtPrecio.resources
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\obj\Debug\net5.0-windows\Presentation.Formularios.FormularioLogin.PanelRecuperarClave.resources
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\obj\Debug\net5.0-windows\Presentation.Formularios.FormulariosRecursos.Tienda.FormDetallesProducto.resources
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\obj\Debug\net5.0-windows\Presentation.Formularios.FormulariosSecundarios.Actualizaciones.FormActualizaciones.resources
+C:\Users\davii\OneDrive\Construcciones Cardobon\Documentos\Portafolio\UpLauncher VIsual Studio\Presentation\bin\Debug\net5.0-windows\UpLauncher Voltion.exe
+C:\Users\davii\OneDrive\Construcciones Cardobon\Documentos\Portafolio\UpLauncher VIsual Studio\Presentation\bin\Debug\net5.0-windows\UpLauncher Voltion.deps.json
+C:\Users\davii\OneDrive\Construcciones Cardobon\Documentos\Portafolio\UpLauncher VIsual Studio\Presentation\bin\Debug\net5.0-windows\UpLauncher Voltion.runtimeconfig.json
+C:\Users\davii\OneDrive\Construcciones Cardobon\Documentos\Portafolio\UpLauncher VIsual Studio\Presentation\bin\Debug\net5.0-windows\UpLauncher Voltion.runtimeconfig.dev.json
+C:\Users\davii\OneDrive\Construcciones Cardobon\Documentos\Portafolio\UpLauncher VIsual Studio\Presentation\bin\Debug\net5.0-windows\UpLauncher Voltion.dll
+C:\Users\davii\OneDrive\Construcciones Cardobon\Documentos\Portafolio\UpLauncher VIsual Studio\Presentation\bin\Debug\net5.0-windows\UpLauncher Voltion.pdb
+C:\Users\davii\OneDrive\Construcciones Cardobon\Documentos\Portafolio\UpLauncher VIsual Studio\Presentation\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+C:\Users\davii\OneDrive\Construcciones Cardobon\Documentos\Portafolio\UpLauncher VIsual Studio\Presentation\bin\Debug\net5.0-windows\MySqlConnector.dll
+C:\Users\davii\OneDrive\Construcciones Cardobon\Documentos\Portafolio\UpLauncher VIsual Studio\Presentation\bin\Debug\net5.0-windows\Common.dll
+C:\Users\davii\OneDrive\Construcciones Cardobon\Documentos\Portafolio\UpLauncher VIsual Studio\Presentation\bin\Debug\net5.0-windows\DataAccess.dll
+C:\Users\davii\OneDrive\Construcciones Cardobon\Documentos\Portafolio\UpLauncher VIsual Studio\Presentation\bin\Debug\net5.0-windows\Domain.dll
+C:\Users\davii\OneDrive\Construcciones Cardobon\Documentos\Portafolio\UpLauncher VIsual Studio\Presentation\bin\Debug\net5.0-windows\Common.pdb
+C:\Users\davii\OneDrive\Construcciones Cardobon\Documentos\Portafolio\UpLauncher VIsual Studio\Presentation\bin\Debug\net5.0-windows\Domain.pdb
+C:\Users\davii\OneDrive\Construcciones Cardobon\Documentos\Portafolio\UpLauncher VIsual Studio\Presentation\bin\Debug\net5.0-windows\DataAccess.pdb
+C:\Users\davii\OneDrive\Construcciones Cardobon\Documentos\Portafolio\UpLauncher VIsual Studio\Presentation\obj\Debug\net5.0-windows\Presentation.csproj.AssemblyReference.cache
+C:\Users\davii\OneDrive\Construcciones Cardobon\Documentos\Portafolio\UpLauncher VIsual Studio\Presentation\obj\Debug\net5.0-windows\Interop.VBIDE.dll
+C:\Users\davii\OneDrive\Construcciones Cardobon\Documentos\Portafolio\UpLauncher VIsual Studio\Presentation\obj\Debug\net5.0-windows\Presentation.csproj.ResolveComReference.cache
+C:\Users\davii\OneDrive\Construcciones Cardobon\Documentos\Portafolio\UpLauncher VIsual Studio\Presentation\obj\Debug\net5.0-windows\Presentation.PanelLogin.resources
+C:\Users\davii\OneDrive\Construcciones Cardobon\Documentos\Portafolio\UpLauncher VIsual Studio\Presentation\obj\Debug\net5.0-windows\Presentation.Formularios.FormularioLogin.PanelRecuperarClave.resources
+C:\Users\davii\OneDrive\Construcciones Cardobon\Documentos\Portafolio\UpLauncher VIsual Studio\Presentation\obj\Debug\net5.0-windows\Presentation.Formularios.FormularioLogin.PanelRegistro.resources
+C:\Users\davii\OneDrive\Construcciones Cardobon\Documentos\Portafolio\UpLauncher VIsual Studio\Presentation\obj\Debug\net5.0-windows\Presentation.PanelInicio.resources
+C:\Users\davii\OneDrive\Construcciones Cardobon\Documentos\Portafolio\UpLauncher VIsual Studio\Presentation\obj\Debug\net5.0-windows\Presentation.Formularios.FormulariosSecundarios.Actualizaciones.FormActualizaciones.resources
+C:\Users\davii\OneDrive\Construcciones Cardobon\Documentos\Portafolio\UpLauncher VIsual Studio\Presentation\obj\Debug\net5.0-windows\Presentation.Formularios.FormulariosRecursos.Contacto.FormContacto.resources
+C:\Users\davii\OneDrive\Construcciones Cardobon\Documentos\Portafolio\UpLauncher VIsual Studio\Presentation\obj\Debug\net5.0-windows\Presentation.Formularios.FormulariosRecursos.Editar_Perfil.FormEditProfile.resources
+C:\Users\davii\OneDrive\Construcciones Cardobon\Documentos\Portafolio\UpLauncher VIsual Studio\Presentation\obj\Debug\net5.0-windows\Presentation.Formularios.FormulariosRecursos.Guia.FormGuia.resources
+C:\Users\davii\OneDrive\Construcciones Cardobon\Documentos\Portafolio\UpLauncher VIsual Studio\Presentation\obj\Debug\net5.0-windows\Presentation.Formularios.FormulariosRecursos.Tienda.txtPrecio.resources
+C:\Users\davii\OneDrive\Construcciones Cardobon\Documentos\Portafolio\UpLauncher VIsual Studio\Presentation\obj\Debug\net5.0-windows\Presentation.Formularios.FormulariosRecursos.Tienda.FormDetallesProducto.resources
+C:\Users\davii\OneDrive\Construcciones Cardobon\Documentos\Portafolio\UpLauncher VIsual Studio\Presentation\obj\Debug\net5.0-windows\Presentation.Formularios.FormulariosRecursos.Tienda.FormProductosTienda.resources
+C:\Users\davii\OneDrive\Construcciones Cardobon\Documentos\Portafolio\UpLauncher VIsual Studio\Presentation\obj\Debug\net5.0-windows\Presentation.Formularios.FormulariosRecursos.FormTienda.resources
+C:\Users\davii\OneDrive\Construcciones Cardobon\Documentos\Portafolio\UpLauncher VIsual Studio\Presentation\obj\Debug\net5.0-windows\Presentation.Properties.Resources.resources
+C:\Users\davii\OneDrive\Construcciones Cardobon\Documentos\Portafolio\UpLauncher VIsual Studio\Presentation\obj\Debug\net5.0-windows\Presentation.csproj.GenerateResource.cache
+C:\Users\davii\OneDrive\Construcciones Cardobon\Documentos\Portafolio\UpLauncher VIsual Studio\Presentation\obj\Debug\net5.0-windows\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davii\OneDrive\Construcciones Cardobon\Documentos\Portafolio\UpLauncher VIsual Studio\Presentation\obj\Debug\net5.0-windows\Presentation.AssemblyInfoInputs.cache
+C:\Users\davii\OneDrive\Construcciones Cardobon\Documentos\Portafolio\UpLauncher VIsual Studio\Presentation\obj\Debug\net5.0-windows\Presentation.AssemblyInfo.cs
+C:\Users\davii\OneDrive\Construcciones Cardobon\Documentos\Portafolio\UpLauncher VIsual Studio\Presentation\obj\Debug\net5.0-windows\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\davii\OneDrive\Construcciones Cardobon\Documentos\Portafolio\UpLauncher VIsual Studio\Presentation\obj\Debug\net5.0-windows\Presentation.csproj.CopyComplete
+C:\Users\davii\OneDrive\Construcciones Cardobon\Documentos\Portafolio\UpLauncher VIsual Studio\Presentation\obj\Debug\net5.0-windows\UpLauncher Voltion.dll
+C:\Users\davii\OneDrive\Construcciones Cardobon\Documentos\Portafolio\UpLauncher VIsual Studio\Presentation\obj\Debug\net5.0-windows\refint\UpLauncher Voltion.dll
+C:\Users\davii\OneDrive\Construcciones Cardobon\Documentos\Portafolio\UpLauncher VIsual Studio\Presentation\obj\Debug\net5.0-windows\UpLauncher Voltion.pdb
+C:\Users\davii\OneDrive\Construcciones Cardobon\Documentos\Portafolio\UpLauncher VIsual Studio\Presentation\obj\Debug\net5.0-windows\Presentation.genruntimeconfig.cache
+C:\Users\davii\OneDrive\Construcciones Cardobon\Documentos\Portafolio\UpLauncher VIsual Studio\Presentation\obj\Debug\net5.0-windows\ref\UpLauncher Voltion.dll

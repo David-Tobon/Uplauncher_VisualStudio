@@ -1,0 +1,30 @@
+C:\Users\felipe perez\source\repos\UpLauncher\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\felipe perez\source\repos\UpLauncher\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\felipe perez\source\repos\UpLauncher\DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+C:\Users\felipe perez\source\repos\UpLauncher\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\felipe perez\source\repos\UpLauncher\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\felipe perez\source\repos\UpLauncher\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felipe perez\source\repos\UpLauncher\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\felipe perez\source\repos\UpLauncher\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\felipe perez\source\repos\UpLauncher\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\felipe perez\source\repos\UpLauncher\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\felipe perez\source\repos\UpLauncher\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\felipe perez\source\repos\UpLauncher\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\felipe perez\source\repos\UpLauncher\DataAccess\bin\Debug\net5.0\Common.dll
+C:\Users\felipe perez\source\repos\UpLauncher\DataAccess\bin\Debug\net5.0\Common.pdb
+C:\Users\felipe perez\source\repos\UpLauncher\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+C:\Users\davii\OneDrive\Construcciones Cardobon\Documentos\Portafolio\UpLauncher VIsual Studio\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\davii\OneDrive\Construcciones Cardobon\Documentos\Portafolio\UpLauncher VIsual Studio\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\davii\OneDrive\Construcciones Cardobon\Documentos\Portafolio\UpLauncher VIsual Studio\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\davii\OneDrive\Construcciones Cardobon\Documentos\Portafolio\UpLauncher VIsual Studio\DataAccess\bin\Debug\net5.0\Common.dll
+C:\Users\davii\OneDrive\Construcciones Cardobon\Documentos\Portafolio\UpLauncher VIsual Studio\DataAccess\bin\Debug\net5.0\Common.pdb
+C:\Users\davii\OneDrive\Construcciones Cardobon\Documentos\Portafolio\UpLauncher VIsual Studio\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\davii\OneDrive\Construcciones Cardobon\Documentos\Portafolio\UpLauncher VIsual Studio\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davii\OneDrive\Construcciones Cardobon\Documentos\Portafolio\UpLauncher VIsual Studio\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\davii\OneDrive\Construcciones Cardobon\Documentos\Portafolio\UpLauncher VIsual Studio\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\davii\OneDrive\Construcciones Cardobon\Documentos\Portafolio\UpLauncher VIsual Studio\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\davii\OneDrive\Construcciones Cardobon\Documentos\Portafolio\UpLauncher VIsual Studio\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+C:\Users\davii\OneDrive\Construcciones Cardobon\Documentos\Portafolio\UpLauncher VIsual Studio\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\davii\OneDrive\Construcciones Cardobon\Documentos\Portafolio\UpLauncher VIsual Studio\DataAccess\obj\Debug\net5.0\refint\DataAccess.dll
+C:\Users\davii\OneDrive\Construcciones Cardobon\Documentos\Portafolio\UpLauncher VIsual Studio\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\davii\OneDrive\Construcciones Cardobon\Documentos\Portafolio\UpLauncher VIsual Studio\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll

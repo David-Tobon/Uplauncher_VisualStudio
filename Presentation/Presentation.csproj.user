@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\felipe perez\source\repos\UpLauncher\Presentation\Properties\PublishProfiles\Voltion 2.51.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Extra\BarraProgreso_Color.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Extra\PictureBox_Circular.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Formularios\FormularioLogin\PanelRecuperarClave.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\FormularioLogin\PanelLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\FormularioLogin\PanelRegistro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\FormularioPrincipal\PanelInicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\FormulariosSecundarios\Actualizaciones\FormActualizaciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\FormulariosSecundarios\Contacto\FormContacto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\FormulariosSecundarios\Editar Perfil\FormEditProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\FormulariosSecundarios\Tienda\DataGridAgregar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\FormulariosSecundarios\Tienda\FormDetallesProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\FormulariosSecundarios\Tienda\FormProductosTienda.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Formularios\FormulariosSecundarios\Tienda\FormTienda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\FormulariosSecundarios\Guia\FormGuia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

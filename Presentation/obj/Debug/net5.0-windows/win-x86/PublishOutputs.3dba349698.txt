@@ -1,0 +1,6 @@
+C:\Users\felipe perez\Desktop\UpLauncher Voltion\UpLauncher Voltion.pdb
+C:\Users\felipe perez\Desktop\UpLauncher Voltion\Common.pdb
+C:\Users\felipe perez\Desktop\UpLauncher Voltion\Domain.pdb
+C:\Users\felipe perez\Desktop\UpLauncher Voltion\DiseñoIconos.pdb
+C:\Users\felipe perez\Desktop\UpLauncher Voltion\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\felipe perez\Desktop\UpLauncher Voltion\UpLauncher Voltion.exe

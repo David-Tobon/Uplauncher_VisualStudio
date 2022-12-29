@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "WOcgRsHHkqYPvUWEn9qk/Ne0BMRfXjTuyYtxtttthD9vWYaOqPJBbvSRUJSrkcLKHve8Mr2Dx95OhDRu3Tb8rw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\felipe perez\\source\\repos\\UpLauncher\\Presentation\\Presentation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\felipe perez\\.nuget\\packages\\fontawesome.sharp\\5.15.4\\fontawesome.sharp.5.15.4.nupkg.sha512",
+    "C:\\Users\\felipe perez\\.nuget\\packages\\mysqlconnector\\2.1.0\\mysqlconnector.2.1.0.nupkg.sha512",
+    "C:\\Users\\felipe perez\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\5.0.12\\microsoft.netcore.app.runtime.win-x86.5.0.12.nupkg.sha512",
+    "C:\\Users\\felipe perez\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\5.0.12\\microsoft.windowsdesktop.app.runtime.win-x86.5.0.12.nupkg.sha512",
+    "C:\\Users\\felipe perez\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\5.0.12\\microsoft.aspnetcore.app.runtime.win-x86.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\felipe perez\Desktop\UpLauncher\UpLauncher Voltion.exe
+C:\Users\felipe perez\Desktop\UpLauncher\UpLauncher Voltion.dll
+C:\Users\felipe perez\Desktop\UpLauncher\UpLauncher Voltion.deps.json
+C:\Users\felipe perez\Desktop\UpLauncher\UpLauncher Voltion.runtimeconfig.json
+C:\Users\felipe perez\Desktop\UpLauncher\UpLauncher Voltion.pdb
+C:\Users\felipe perez\Desktop\UpLauncher\FontAwesome.Sharp.dll
+C:\Users\felipe perez\Desktop\UpLauncher\MySqlConnector.dll
+C:\Users\felipe perez\Desktop\UpLauncher\Common.dll
+C:\Users\felipe perez\Desktop\UpLauncher\DataAccess.dll
+C:\Users\felipe perez\Desktop\UpLauncher\Domain.dll
+C:\Users\felipe perez\Desktop\UpLauncher\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\felipe perez\Desktop\UpLauncher\Common.pdb
+C:\Users\felipe perez\Desktop\UpLauncher\Domain.pdb
+C:\Users\felipe perez\Desktop\UpLauncher\DataAccess.pdb
+C:\Users\felipe perez\Desktop\UpLauncher\Microsoft.VisualBasic.PowerPacks.xml

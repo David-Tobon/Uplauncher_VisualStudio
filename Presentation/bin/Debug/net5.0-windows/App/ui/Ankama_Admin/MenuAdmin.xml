@@ -1,0 +1,112 @@
+﻿<commands>
+    <item type="startup" label="StartUp">
+        <item type="sendChat" command="/debug" />
+   
+   </item>
+   <item type="static" label="Menú de Administración Dofus Voltion" />
+				 <item type="Menu" label="&lt;font color='#FFFAF0'&gt;Sanciones&lt;/font&gt;">
+					   <item type="sendChat" label="Kick" command=".kick %p"/>
+					   <item type="sendChat" label="Jail" command=".jail %p 999999"/>
+					   <item type="sendChat" label="Ban" command=".ban %p 999999 si"/>
+					   <item type="sendChat" label="UnBan" command=".unban %p"/>
+					   <item type="sendChat" label="UnJail" command=".unjail %p"/>
+            
+                	</item>
+					    <item type="sendChat" label="&lt;font color='#FFFAF0'&gt;Guardar Servidor&lt;/font&gt;" command=".saveall"/>
+					    <item type="sendChat" label="&lt;font color='#FFFAF0'&gt;Añadir Estrellas a Monstruos&lt;/font&gt;" command=".monster stars 175 -all"/>
+	
+	<item type="static" label="Administración" />
+		<item type="menu" label="&lt;font color='#FFFAF0'&gt;Añadir kamas&lt;/font&gt;">
+						 <item type="sendChat" label="Añadir 10M Kamas" command=".kamas 10000000"/>
+						 <item type="sendChat" label="Añadir 100M Kamas" command=".kamas 100000000"/>
+						 <item type="sendChat" label="Añadir 500M Kamas" command=".kamas 500000000"/>
+						 <item type="sendChat" label="Añadir 1B Kamas" command=".kamas 1000000000"/>
+                
+           </item>
+		<item type="menu" label="&lt;font color='#FFFAF0'&gt;Comandos del Servidor&lt;/font&gt;">
+		               	<item type="sendCommand" label="Mantenimiento" command="maintenance"  />
+		               	<item type="sendCommand" label="Mantenimiento server en 1 minutos" command="shutdown 60" />
+		               	<item type="sendCommand" label="Mantenimiento server en 5 minutos" command="maintenance 300"  />
+						<item type="sendCommand" label="Mantenimiento server en 30 minutos" command="shutdown 1800" />
+						<item type="sendCommand" label="Mantenimiento server en 1 Hora" command="shutdown 3600" />
+		              	<item type="sendCommand" label="Mantenimiento server en 5 Horas" command="shutdown 18000" />
+		              	<item type="sendCommand" label="Mantenimiento server en 24 Horas" command="shutdown 86400" />
+
+
+           </item>
+        <item type="menu" label="&lt;font color='#FFFAF0'&gt;Comandos de Administrador&lt;/font&gt;">
+			 			<item type="sendCommand" label="Abrir menu de items" command="item add #item %p" />
+		               	<item type="sendCommand" label="Abrir menu de hechizos" command="spell learn #spell %p" />
+		                <item type="sendCommand" label="Abrir menu de monstruos (spawn)" command="monster spawn #monster" />
+
+
+           </item>
+		
+		<item type="menu" label="&lt;font color='#FFFAF0'&gt;Niveles&lt;/font&gt;">
+						 <item type="sendchat" label="Añadir 1 Nivel" command=".levelup 1 %p"/>
+						 <item type="sendchat" label="Añadir 10 Niveles" command=".levelup 10 %p"/>
+						 <item type="sendchat" label="Añadir 50 Niveles" command=".levelup 50 %p"/>
+						 <item type="sendchat" label="Añadir 100 Niveles" command=".levelup 100 %p"/>
+						 <item type="sendchat" label="Añadir 200 Niveles" command=".levelup 200 %p"/>
+				         <item type="sendchat" label="Añadir 500 Niveles" command=".levelup 500 %p"/>
+
+             
+              </item>
+		<item type="menu" label="&lt;font color='#FFFAF0'&gt;Hechizos de Administrador&lt;/font&gt;">
+						 <item type="sendchat" label="Doom" command=".spell learn 415 %p" />
+						 <item type="sendchat" label="Matanza" command=".spell learn 411 %p" />
+
+	</item> 
+		
+        <item type="menu" label="&lt;font color='#FFFAF0'&gt;Gremios&lt;/font&gt;"> 
+						 <item type="sendCommand" label="Panel de creacion de gremios" command="Guild Create %p"/>
+						 <item type="sendCommand" label="Añadir Gremiologema" command="item add 1575 %p"/>
+    </item>
+
+	<item type="static" label="Anuncios y Eventos" />
+		<item type="menu" label="&lt;font color='#FFFAF0'&gt;Eventos&lt;/font&gt;">
+						 <item type="sendChat" label="Anuncio en la pantalla" command=".Anunciar Evento"/>
+						 <item type="sendChat" label="Anuncio al costado" command=".Anunciar2 Evento"/>
+	</item>
+		<item type="menu" label="&lt;font color='#FFFAF0'&gt;Modo Dios&lt;/font&gt;">
+						 <item type="sendChat" label="Activar" command=".god on"/>
+						 <item type="sendChat" label="Desactivar" command=".god off"/>
+	</item>
+		<item type="menu" label="&lt;font color='#FFFAF0'&gt;Objetos&gt;">
+						 <item type="sendChat" label="Ver inventario" command=".item showinv %p"/>
+						 <item type="sendCommand" label="Abrir banco" command=".bank open %p" />
+						 <item type="sendChat" label="Abrir modo mercante" command=".merchant show %p"/>
+						 <item type="sendChat" label="Eliminar de modo mercante" command=".merchant kick %p"/>
+				
+</item>
+		<item type="menu" label="&lt;font color='#FFFAF0'&gt;Teleports&lt;/font&gt;">
+					 <item type="sendChat" label="Ir hacia un Jugador" command=".goname %p"/>
+					 <item type="sendChat" label="Traer un Jugador" command=".namego %p"/>
+					 
+
+	 </item>
+
+		 <item type="menu" label="&lt;font color='#FFFAF0'&gt;Cambio de Forma&lt;/font&gt;">
+					<item type="sendCommand" label="Menu de Skins" command="look #look %p" />
+				    <item type="sendCommand" label="Destransformar" command="look %p -demorph %p"/>
+
+
+	 </item>
+	 <item type="sendChat" label="&lt;font color='#FFFAF0'&gt;Mutear/Desmutear map" command=".mutemap"/>
+	  <item type="sendChat" label="&lt;font color='#FFFAF0'&gt;Invisible/Visible&lt;/font&gt;" command=".setinv %p"/>
+<item type="static" label="Ayuda Administrador" />
+	 <item type="menu" label="&lt;font color='#FFFAF0'&gt;Recargar Juego&lt;/font&gt;">
+					
+					 
+					 <item type="sendChat" label="&lt;font color='#FFFAF0'&gt;Recargar NPCs" command=".reload npcs"/>
+					  <item type="sendChat" label="&lt;font color='#FFFAF0'&gt;Recargar Items" command=".reload items"/>
+					   <item type="sendChat" label="&lt;font color='#FFFAF0'&gt;Recargar Interactivos" command=".reload interactives"/>
+					 <item type="loadXML" label="&lt;font color='#FFFAF0'&gt;Recargar XML&lt;/font&gt;"/>
+	 </item>				 
+	 <item type="menu" label="&lt;font color='#FFFAF0'&gt;Ayuda Interactivos&lt;/font&gt;">
+					<item type="sendCommand" label="Mostrar Interactivos" command=".interactives show" />
+				    <item type="sendCommand" label="Recargar Interactivos" command=".reload interactives"/>
+
+	 </item>
+	
+</commands>

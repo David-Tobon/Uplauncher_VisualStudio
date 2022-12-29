@@ -1,0 +1,15 @@
+C:\Users\felipe perez\source\repos\UpLauncher\DataAccess\bin\Debug\net5.0\DiseñoIconos.deps.json
+C:\Users\felipe perez\source\repos\UpLauncher\DataAccess\bin\Debug\net5.0\DiseñoIconos.dll
+C:\Users\felipe perez\source\repos\UpLauncher\DataAccess\bin\Debug\net5.0\ref\DiseñoIconos.dll
+C:\Users\felipe perez\source\repos\UpLauncher\DataAccess\bin\Debug\net5.0\DiseñoIconos.pdb
+C:\Users\felipe perez\source\repos\UpLauncher\DataAccess\bin\Debug\net5.0\Common.dll
+C:\Users\felipe perez\source\repos\UpLauncher\DataAccess\bin\Debug\net5.0\Common.pdb
+C:\Users\felipe perez\source\repos\UpLauncher\DataAccess\obj\Debug\net5.0\DiseñoIconos.csproj.AssemblyReference.cache
+C:\Users\felipe perez\source\repos\UpLauncher\DataAccess\obj\Debug\net5.0\DiseñoIconos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felipe perez\source\repos\UpLauncher\DataAccess\obj\Debug\net5.0\DiseñoIconos.AssemblyInfoInputs.cache
+C:\Users\felipe perez\source\repos\UpLauncher\DataAccess\obj\Debug\net5.0\DiseñoIconos.AssemblyInfo.cs
+C:\Users\felipe perez\source\repos\UpLauncher\DataAccess\obj\Debug\net5.0\DiseñoIconos.csproj.CoreCompileInputs.cache
+C:\Users\felipe perez\source\repos\UpLauncher\DataAccess\obj\Debug\net5.0\DiseñoIconos.csproj.CopyComplete
+C:\Users\felipe perez\source\repos\UpLauncher\DataAccess\obj\Debug\net5.0\DiseñoIconos.dll
+C:\Users\felipe perez\source\repos\UpLauncher\DataAccess\obj\Debug\net5.0\ref\DiseñoIconos.dll
+C:\Users\felipe perez\source\repos\UpLauncher\DataAccess\obj\Debug\net5.0\DiseñoIconos.pdb

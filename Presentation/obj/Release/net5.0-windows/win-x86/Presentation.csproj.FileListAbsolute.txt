@@ -1,0 +1,42 @@
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\bin\Release\net5.0-windows\win-x86\UpLauncher Voltion.exe
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\bin\Release\net5.0-windows\win-x86\UpLauncher Voltion.deps.json
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\bin\Release\net5.0-windows\win-x86\UpLauncher Voltion.runtimeconfig.json
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\bin\Release\net5.0-windows\win-x86\UpLauncher Voltion.runtimeconfig.dev.json
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\bin\Release\net5.0-windows\win-x86\UpLauncher Voltion.dll
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\bin\Release\net5.0-windows\win-x86\ref\UpLauncher Voltion.dll
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\bin\Release\net5.0-windows\win-x86\UpLauncher Voltion.pdb
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\bin\Release\net5.0-windows\win-x86\FontAwesome.Sharp.dll
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\bin\Release\net5.0-windows\win-x86\MySqlConnector.dll
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\bin\Release\net5.0-windows\win-x86\Common.dll
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\bin\Release\net5.0-windows\win-x86\DiseñoIconos.dll
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\bin\Release\net5.0-windows\win-x86\Domain.dll
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\bin\Release\net5.0-windows\win-x86\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\bin\Release\net5.0-windows\win-x86\Common.pdb
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\bin\Release\net5.0-windows\win-x86\Domain.pdb
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\bin\Release\net5.0-windows\win-x86\DiseñoIconos.pdb
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\bin\Release\net5.0-windows\win-x86\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\obj\Release\net5.0-windows\win-x86\Interop.VBIDE.dll
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\obj\Release\net5.0-windows\win-x86\Presentation.csproj.ResolveComReference.cache
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\obj\Release\net5.0-windows\win-x86\Presentation.PanelLogin.resources
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\obj\Release\net5.0-windows\win-x86\Presentation.Formularios.FormularioLogin.PanelRecuperarClave.resources
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\obj\Release\net5.0-windows\win-x86\Presentation.Formularios.FormularioLogin.PanelRegistro.resources
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\obj\Release\net5.0-windows\win-x86\Presentation.PanelInicio.resources
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\obj\Release\net5.0-windows\win-x86\Presentation.Formularios.FormulariosSecundarios.Actualizaciones.FormActualizaciones.resources
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\obj\Release\net5.0-windows\win-x86\Presentation.Formularios.FormulariosRecursos.Contacto.FormContacto.resources
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\obj\Release\net5.0-windows\win-x86\Presentation.Formularios.FormulariosRecursos.Editar_Perfil.FormEditProfile.resources
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\obj\Release\net5.0-windows\win-x86\Presentation.Formularios.FormulariosRecursos.Guia.FormGuia.resources
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\obj\Release\net5.0-windows\win-x86\Presentation.Formularios.FormulariosRecursos.Tienda.txtPrecio.resources
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\obj\Release\net5.0-windows\win-x86\Presentation.Formularios.FormulariosRecursos.Tienda.FormDetallesProducto.resources
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\obj\Release\net5.0-windows\win-x86\Presentation.Formularios.FormulariosRecursos.Tienda.FormProductosTienda.resources
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\obj\Release\net5.0-windows\win-x86\Presentation.Formularios.FormulariosRecursos.FormTienda.resources
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\obj\Release\net5.0-windows\win-x86\Presentation.Properties.Resources.resources
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\obj\Release\net5.0-windows\win-x86\Presentation.csproj.GenerateResource.cache
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\obj\Release\net5.0-windows\win-x86\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\obj\Release\net5.0-windows\win-x86\Presentation.AssemblyInfoInputs.cache
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\obj\Release\net5.0-windows\win-x86\Presentation.AssemblyInfo.cs
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\obj\Release\net5.0-windows\win-x86\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\obj\Release\net5.0-windows\win-x86\Presentation.csproj.CopyComplete
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\obj\Release\net5.0-windows\win-x86\UpLauncher Voltion.dll
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\obj\Release\net5.0-windows\win-x86\ref\UpLauncher Voltion.dll
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\obj\Release\net5.0-windows\win-x86\UpLauncher Voltion.pdb
+C:\Users\felipe perez\source\repos\UpLauncher\Presentation\obj\Release\net5.0-windows\win-x86\Presentation.genruntimeconfig.cache
